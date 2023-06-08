@@ -1,0 +1,43 @@
+:root {
+    --blue: rgb(0, 0, 205)
+}
+
+* {
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    margin: 0;
+}
+
+#background {
+    width: 100%;
+}
+
+header {
+    width: 96%;
+    background-color: var(--blue);
+    font-family: fantasy;
+    margin-top: -1.7%;
+    padding: 2%;
+    height: 2.8vw;
+}
+
+#headerText {
+    font-size: 200%;
+    position: absolute;
+    right: 21%;
+    margin-top: 2.7%;
+    color: white;
+}
+
+#headerImg {
+    width: 5%;
+    margin-right: 20%;
+    float: right;
+    margin-top: -0.2%;
+}
