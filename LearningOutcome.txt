@@ -1,0 +1,34 @@
+Learning outcome
+The learning outcome from the project are a different between the Hungarian and Danish students. The Hungarian goal leans towards the frontend development, whereas the Danish students leans towards backend programmering.
+
+Every student will get an ongoing evaluation during the project and at the end of the project, a summative evaluation there will take place before and during the project presentation.
+
+Learning outcome Rakvere students
+Install and configure a DBMS system (MSSQL) on a Windows server
+Implement role-based access control to DBMS, based on “least privilege” principle
+Build and document an access control matrix
+Document and implement a simple backup strategy
+Installation and configuration of a webserver
+
+Learning outcome Tartu students
+
+
+Use different type of html elements, like list, images and tables 
+Implement a html form which connects to a backend system with an underlaying database. 
+Use different type of CSS selectors and implementing a box model
+Installation and setting up local servers for development
+
+
+Learning outcome Danish students
+
+Implement a website using both front-end and backend programming.
+Implement the front-end with JavaScript, JQuery or Typescript.
+Build a backend system, which connects to a database
+Implement at least one asynchronous call to a webservice (AJAX)
+
+Learning outcome all
+Cooperate with other students about solving a development project.
+Understand and apply professional terms and definitions.
+Search for and apply relevant information and instructions.
+Plan a minor development project, from requirement gathering to test of the web-site
+
